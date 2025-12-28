@@ -1,0 +1,5 @@
+a=input("Enter the name :")
+b=input("Enter the date :")
+print("Dear ", a)
+print("You are selected!")
+print(b)
