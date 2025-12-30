@@ -3,7 +3,7 @@ fav_lang = {}
 friend1_name = input("Enter the name of friend 1: ")
 friend1_lang = input("Enter their favorite language: ")
 fav_lang[friend1_name] = friend1_lang
-
+    
 friend2_name = input("Enter the name of friend 2: ")
 friend2_lang = input("Enter their favorite language: ")
 fav_lang[friend2_name] = friend2_lang
